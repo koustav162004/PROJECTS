@@ -1,5 +1,4 @@
-![Uploading image.png…]()
-
+![download](https://github.com/user-attachments/assets/7e56f98b-3094-4ae1-ab78-e7c3c1667f79)
 
 Overview: Exploring olympic data using SQL
 The Olympics symbolize global unity and athletic excellence, with a wealth of data on athletes,
